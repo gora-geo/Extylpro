@@ -1,0 +1,374 @@
+
+       
+ 
+
+        
+        @media screen and (max-width:1180px) {
+          html{
+            width: 100%;
+          }
+          #setka
+  {
+    
+background: white;
+width: 100%;
+left:0px;
+margin-left: 0px;
+    
+
+  }
+
+  #cl-1{
+    
+  /*  background-color: green;*/
+   
+  }
+  #cl-2{
+    
+       /* background-color: green;*/
+       left: 20px;
+    
+  }
+
+    #cl-3{
+        /*background-color: green;*/
+  }
+    #cl-4{
+       /* background-color: green;*/
+  }
+    #cl-5{
+       /* background-color: green;*/
+  }
+  #cl-6{
+       /* background-color: yellow;*/
+        left: 100%;
+        margin-left: -170px;
+  }
+#cl-7{
+       /* background-color: green;*/
+  }
+
+  #text2{
+    
+    left: 19.322033898305087%;
+    
+  }
+
+   #vertline{
+  
+  left: 33.05084745762712%;
+  
+ }
+
+
+  #text3{
+    
+    left: 37.11864406779661%;
+  }
+  #text4{
+    
+    left: 27.627118644067792%;
+    
+
+  }
+
+  #text5{
+   
+    left: 52.20338983050847%;
+    
+        
+
+  }
+    .button{
+
+
+left: 52.118644067796616%;
+}    
+
+ #mail{
+ 
+  left: 52.20338983050847%;
+   
+ }  
+
+ #nav {
+ 
+  width:100%;
+  left: 0px; 
+  
+        
+ }
+ #nav nav{
+  padding-top: 26px;
+  margin-left:15px; 
+  line-height: 25px;
+
+ }
+ #nav a{
+  
+  /*margin-right: 13px;*/
+}
+
+ }
+ @media screen and (max-width:1070px) {
+   #vertline{
+ visibility: hidden;
+ }
+  .button{
+    width: 225px;
+    left: 55%;
+  }
+
+  #img1{
+    
+    left: 15px;
+       
+        
+
+  }
+#text6{
+  
+       
+        
+
+  
+ }
+
+ #text2{
+      left: 200px;
+
+ 
+ } 
+}
+  @media screen and (max-width:1020px) {
+    #text4{
+      left: 23%;
+
+ 
+ } 
+}
+
+  @media screen and (max-width:950px) {
+    #text2{
+      /*left: 180px;*/
+
+ 
+ } 
+}
+  @media screen and (max-width:920px) {
+    #text4{
+      left: 200px;
+
+ 
+ } 
+ .button{
+    width: 225px;
+    left: 53%;
+  }
+        }
+  @media screen and (max-width:900px) {
+    #text3{
+      left: 200px;
+      top:85px;
+
+ 
+ } 
+  #text4{
+      left: 200px;
+      top:145px;
+
+ 
+ } 
+ .button{
+   
+    left: 45%;
+  }
+        }
+        
+         @media screen and (max-width:850px) {
+    #text4{
+      left: 15%;
+     
+
+ 
+ } 
+}
+  @media screen and (max-width:770px) {
+   
+    #text2{
+      top:125px;
+      left: 20px;
+     
+ } 
+  #text3{
+      top:125px;
+     
+     
+ } 
+
+ .button{
+   
+    left: 35%;
+  }
+
+   #text4{
+      left: 50%;
+      top:165px;
+
+ 
+ } 
+}
+ @media screen and (max-width:660px) {
+   .button{
+   left: 40%;
+    top:110px;
+  }
+  #cl-6{
+    
+    left: 79%;
+  }
+     #text8{
+     /* left: 0px;*/
+
+ 
+ }
+ #korzina{
+ /* left: -60px;*/
+ }
+
+    #text3{
+      top:175px;
+       left: 20px;
+
+ }
+     #text5{
+      top:215px;
+      
+
+ }
+
+ #mail{
+  top:165px;
+ }
+    #text4{
+      top:190px;
+      
+
+ }
+
+  #nav {
+ 
+  top:265px; 
+  
+        
+ }
+ }
+  @media screen and (max-width:500px) {
+     #text5{
+       left: 200px;
+      
+
+ }
+
+ #mail{
+ 
+  left: 200px;
+   
+ }
+    #text4{
+       left: 200px;
+      
+
+ }
+ .button{
+   left: 200px;
+    
+  }
+  #cl-6{
+    
+    left: 380px;
+  }
+  }
+  @media screen and (max-width:460px) {
+      #cl-2{
+    
+    left: 50%;
+    margin-left: -85px;
+  }
+    #cl-6{
+    
+    left: 50%;
+    margin-left: -85px;
+  }
+
+     #text8{
+     /* left: 0px;*/
+top:124px;
+ 
+ }
+ #korzina{
+ /* left: -60px;*/
+ top:141px;
+ }
+
+  #text2{
+    left: 50%;
+    margin-left: -80px;
+     top:185px;
+  }
+  #text3{
+    left: 50%;
+    margin-left: -80px;
+     top:235px;
+  }
+
+   #text4{
+    left: 50%;
+    margin-left: -80px;
+     top:290px;
+     width: 210px;
+  }
+
+    #text5{
+    left: 50%;
+    margin-left: -80px;
+     top:340px;
+     width: 150px;
+  }
+   #mail{
+ 
+  left: 50%;
+    margin-left: -80px;
+     top:410px;
+   
+ } 
+     .button{
+      left: 50%;
+    margin-left: -80px;
+     top:450px;
+     width: 170px;
+
+
+
+} 
+#text6 {
+    
+    margin-top: -15px;
+    
+}  
+  #nav {
+ 
+  top:515px; 
+  
+        
+ }
+   #text7{
+       font-size: 14px;
+  }
+  }
+  @media screen and (max-width:250px) {
+      #setka{
+        width: 220px;
+      }
+
+  }

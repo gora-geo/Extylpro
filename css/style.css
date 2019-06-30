@@ -1,0 +1,298 @@
+#st-1
+	{
+	/*background: url(images/ArtisanMerch.jpg) no-repeat ;/*images/background1.jpg*/
+		
+		position: absolute;
+		
+		width:1920px;
+		left:50%;
+		margin-left: -960px;
+		height: 4112px; /*844*/
+	/*	opacity: 0.5; /* Полупрозрачность элемента */
+
+	}
+
+	#cl-1{
+		position: absolute;
+		/*background-color: red;*/
+		width: 160px;
+		height: 4112px;
+		left: -18.37606837606838%;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-2{
+		position: absolute;
+		/*background-color: red;*/
+		width: 170px;
+		height: 4112px;
+		left: 0px;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+
+		#cl-3{
+		position: absolute;
+		/*background-color: red;*/
+		width: 170px;
+		height: 4112px;
+		left: 34.18803418803419%;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+		#cl-4{
+		position: absolute;
+		/*background-color: red;*/
+		width: 170px;
+		height: 4112px;
+		left: 51.28205128205128%;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+		#cl-5{
+		position: absolute;
+		/*background-color: yellow;*/
+		width: 30px;
+		height: 4112px;
+		left: 114.95726495726495%;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-6{
+		position: absolute;
+		/*background-color: red;*/
+		width: 170px;
+		height: 4112px;
+		left: 85.47008547008546%;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+#cl-7{
+		position: absolute;
+		/*background-color: red;*/
+		width: 160px;
+		height: 4112px;
+		left: 104.7008547008547%;
+		/*left:50%;*/
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#logo{
+		position: absolute;
+		top:35px;
+	}
+	#setka
+	{
+		
+		
+		position: absolute;
+		
+		width:1170px;
+		left:50%;
+		margin-left: -585px;
+		height: 4112px; /*844*/
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+		/*background: green;*/
+
+	}
+	#text1{
+		position: absolute;
+		top:93px;
+		
+		    letter-spacing: 0.76px;
+		font-family: 'Roboto', sans-serif;
+		    font-size: 10px;
+		    text-align: right;
+		    color: black;
+		    margin-left: 0;
+		    width: 170px;
+		    
+
+	}
+	#text2{
+		position: absolute;
+		top:35px;
+		left: 228px;
+		
+		   /* letter-spacing: 0.76px;*/
+		  font-family: 'Roboto Regular', arial;
+		    font-size: 14px;
+		    /*text-align: right;*/
+		    color: black;
+		    
+		    
+
+	}
+	#text3{
+		position: absolute;
+		top:35px;
+		left: 438px;
+		
+		   /* letter-spacing: 0.76px;*/
+		  font-family: 'Roboto Regular', arial;
+		    font-size: 14px;
+		    /*text-align: right;*/
+		    color: black;
+		   
+		    
+
+	}
+	#text4{
+		position: absolute;
+		top:99px;
+		left: 326px;
+		
+		    letter-spacing: 0.45px;
+		  font-family: 'Roboto Regular', arial;
+		    font-size: 14px;
+		    /*text-align: right;*/
+		    color: black;
+		   
+		    
+
+	}
+
+	#text5{
+		position: absolute;
+		top:99px;
+		left: 616px;
+		
+		    letter-spacing: 0.2px;
+		  font-family: 'Roboto Regular', arial;
+		    font-size: 14px;
+		    /*text-align: right;*/
+		    color: black;
+		   
+		    
+
+	}
+#img1{
+		position: absolute;
+		top:50%;
+		margin-top:-16px;
+		left: 60px;
+		   
+		    
+
+	}
+#text6{
+		position: absolute;
+		top:50%;
+		margin-top:-9px;
+		left: 50%;
+		margin-left: -54px;
+		   
+		    
+
+	}
+#text7{
+		position: absolute;
+		top:2px;
+		left: 41px;
+		   
+		   white-space:nowrap; 
+
+	}
+	#text8{
+		font-family: 'Roboto Regular', arial;
+		    font-size: 14px;
+		    position: absolute;
+		    left: 60px;
+		    top:34px;
+		    line-height:16px;
+	}
+#text9{
+		font-weight: bold;
+	}
+	.button{
+
+position: absolute;
+left: 615px;
+top:51px;
+text-decoration:none; 
+text-align:center; 
+		
+
+width: 325px;
+height: 45px;
+  font-family: 'Roboto Regular', arial;
+		    font-size: 14px;
+ color:#ffFFFF; 
+ background-color:#4692ce; 
+
+  }.button:hover{
+ 
+ background-color:#5687ad; 
+ 
+  
+ }.button:active{
+ 
+ background-color:#5687ad; 
+ 
+  
+ }
+ #mail{
+ 	position: absolute;
+ 	height: 30px;
+ 	width: 250px;
+ 	left: 616px;
+ 	top:145px;
+ 	font-family: 'Roboto Regular', arial;
+    font-size: 18px;
+    color:#ffFFFF; 
+ }
+ #vedro{
+ 	
+ 	position: absolute;
+ 	left: 5px;
+ 	top:7px;
+ 
+ 	
+ }
+ #korzina{
+ 	position: absolute;
+ 	top:51px;
+ 	width: 45px;
+ 	height: 45px;
+ 		background-color: #4692ce;
+ }
+ #nav {
+ 	position: absolute;
+ 	left: -375px;
+ 	width:1920px; 
+ 	top:205px;
+ 	border-top: 1px solid #4991cc;
+ 	/*background: green;*/
+ 	height: 75px;
+ 	 font-family: 'Roboto Regular',arial;
+		    font-size: 18.1px;
+		    
+ }
+ #nav nav{
+ 	padding-top: 26px;
+ 	margin-left:373px; 
+ }
+ #nav a{
+ 	
+ 	margin-right: 23px;
+    /*font-weight: 100;*/
+	text-decoration: none; /* Отменяем подчеркивание у ссылки */
+	white-space: nowrap;
+ }
+ #vertline{
+ 	position: absolute;
+ 	top:50px;
+ 	left: 390px;
+ 	height: 45px;
+ 	width: 2px;
+ 	background: #adb0b6;
+ }
+ #setka2{
+
+ }
